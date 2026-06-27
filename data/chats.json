@@ -1,0 +1,126 @@
+[
+  {
+    "id": "session_1782533367847",
+    "title": "Conversation #1",
+    "messages": [
+      {
+        "id": "msg_1782533380657_user",
+        "role": "user",
+        "content": "names",
+        "timestamp": "2026-06-27T04:09:40.657Z"
+      },
+      {
+        "id": "msg_1782533380658_assistant",
+        "role": "assistant",
+        "content": "Based on the provided documents, the following names are mentioned:\n\n* **Candidate Full Name (in Hindi):** यशस्वी पवार (Yashaswi Pawar) [Source 3]\n* **Document Name Reference:** Yashika (from the file name *counsaling yashika.pdf*) [Source 1, Source 2]",
+        "timestamp": "2026-06-27T04:09:40.657Z",
+        "sources": [
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_7",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "name and Date of Birth (As per 10th marksheet) e-VERIFIED Certificate V erification Status Domicile of Madhya Pradesh NOT VERIFIED Category( OBC ) NOT VERIFIED Income certificate (Non Creamy Layer Limit) (IN CASE OF OBC Certificate is before 30/04/2023 ) NOT VERIFIED आव ं टन प\u0000ात स\u0000ापन की \u0000\u0000ित म \u0000 प ं जीयन क े समय भरी गयी जानकारी म \u0000 \u0000 ु िट पाए जान े पर अभ्यथ\u0000 का आव ं टन स्वतः ही िनरस्त माना जाव े गा एव ं अभ्यथ\u0000 को गलत जानकारी प्रदाय करन े क े कारण व ै धािनक काय \u0000 वाही का सामना करना पड़ सकता ह ै | Powered by MPOnline ltd The information contained in this document and/or r eceipt contains confidential information. Please do not shar e this information with anybody . USER IP:171:79:37:191 6/24/26, 12:39 PM about:blank about:blank 2 / 2",
+              "pageIndex": 2,
+              "chunkIndex": 1
+            },
+            "similarity": 0.5737335413708522
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_3",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Chemistry/Mathematics/Physics Roll No of Qualifying Exam 265633634 Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2026 Chemistry Mathematics Physics Total of Subject Marks Total marks obtain (12th) Obt. Max. Result Obt. Max. Result Obt. Max. Result Obt. Max. Subject(%) Obt. Max. Result Percentage 68 100 PASS 69 100 PASS 61 100 PASS 198 300 66.00 336 500 PASS 67.2% You have additional mark sheet of mathematics subject No Are you employee or their Wards of NTPC No High School Qualification (10th) Details Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2024 10th Roll No 145639344 (Tuition Fee Waiver and Gener al Pool First R ound) Registration completed Registration Date 24 Jun 2026 12:39 PM Print Date/Time 24 June 2026 12:39 PM Document verification",
+              "pageIndex": 1,
+              "chunkIndex": 3
+            },
+            "similarity": 0.5600306841722246
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_1",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Address ANAND NAGAR,KHANDW A,Khandwa,Khandwa (M Corp.),KHANDW A,INDORE,MADHY A PRADESH,450001 Certification Details Certificate Selected Details Certificate type Issuing/Self Declared District Certificate No Issued Date Domicile of Madhya Pradesh Yes Issued Khandwa RS/466/01 110/8995/2026 05/03/2026 Candidate Full Name in Hindi यशस्वी पवार Category OBC Khandwa RS/466/0106/45331/2015 02/06/2015 Income certificate (Non Creamy Layer Limit) (IN CASE OF OBC Certificate is before 30/04/2023 ) Yes Issued Khandwa RS/466/01 11/4637/2026 27/02/2026 Economically W eaker Section General Category (EWS) No Not Required Not Required Not Required Class Nil Class Not Required Not Required Not Required Tuition fee W aiver[TFW],( Whose Annual Family Income should not be exceed from 8.0 Lac) No -- Not Required",
+              "pageIndex": 1,
+              "chunkIndex": 1
+            },
+            "similarity": 0.5439520775010338
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_2",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Not Required Not Required Not Required Tuition fee W aiver[TFW],( Whose Annual Family Income should not be exceed from 8.0 Lac) No -- Not Required Not Required Not Required J & K Resident/Migrant No Not Required Not Required Not Required Son/Daughter of a person below poverty line No Not Required Not Required Not Required Son/Daughter of an M.P . govt class IV employee No Not Required Not Required Not Required Awarded gold medal in national level sports competition No Not Required Not Required Not Required Student APAAR/ABC ID (12 digit) -- Details of Qualifying Examination Higher Secondary (10+2) with Chemistry/Mathematics/Physics Roll No of Qualifying Exam 265633634 Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2026 Chemistry Mathematics Physics Total of Subject",
+              "pageIndex": 1,
+              "chunkIndex": 2
+            },
+            "similarity": 0.5426374563867314
+          }
+        ]
+      },
+      {
+        "id": "msg_1782533415474_user",
+        "role": "user",
+        "content": "study",
+        "timestamp": "2026-06-27T04:10:15.474Z"
+      },
+      {
+        "id": "msg_1782533415475_assistant",
+        "role": "assistant",
+        "content": "Based on the provided document, here are the academic and study-related details for the candidate:\n\n### **1. High School Qualification (10th Grade)**\n* **Board Name:** Board of Secondary Education, Bhopal, Madhya Pradesh [Source 1]\n* **Passing Year:** 2024 [Source 1]\n* **Roll Number:** 145639344 [Source 1]\n\n---\n\n### **2. Higher Secondary Qualification (12th Grade / 10+2)**\n* **Qualifying Exam:** Higher Secondary (10+2) with Chemistry, Mathematics, and Physics [Source 2]\n* **Board Name:** Board of Secondary Education, Bhopal, Madhya Pradesh [Source 1]\n* **Passing Year:** 2026 [Source 1]\n* **Roll Number:** 265633634 [Source 1]\n\n#### **Subject-Wise Marks Breakdown:**\n| Subject | Marks Obtained | Maximum Marks | Result |\n| :--- | :---: | :---: | :---: |\n| **Chemistry** | 68 | 100 | PASS [Source 1] |\n| **Mathematics** | 69 | 100 | PASS [Source 1] |\n| **Physics** | 61 | 100 | PASS [Source 1] |\n| **PCM Total** | **198** | **300** | **66.00%** [Source 1] |\n\n#### **Overall 12th Grade Performance:**\n* **Total Marks Obtained:** 336 out of 500 [Source 1]\n* **Percentage:** 67.2% [Source 1]\n* **Result Status:** PASS [Source 1]\n* **Additional Mathematics Marksheet:** No [Source 1]",
+        "timestamp": "2026-06-27T04:10:15.474Z",
+        "sources": [
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_3",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Chemistry/Mathematics/Physics Roll No of Qualifying Exam 265633634 Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2026 Chemistry Mathematics Physics Total of Subject Marks Total marks obtain (12th) Obt. Max. Result Obt. Max. Result Obt. Max. Result Obt. Max. Subject(%) Obt. Max. Result Percentage 68 100 PASS 69 100 PASS 61 100 PASS 198 300 66.00 336 500 PASS 67.2% You have additional mark sheet of mathematics subject No Are you employee or their Wards of NTPC No High School Qualification (10th) Details Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2024 10th Roll No 145639344 (Tuition Fee Waiver and Gener al Pool First R ound) Registration completed Registration Date 24 Jun 2026 12:39 PM Print Date/Time 24 June 2026 12:39 PM Document verification",
+              "pageIndex": 1,
+              "chunkIndex": 3
+            },
+            "similarity": 0.5946636646018245
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_2",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Not Required Not Required Not Required Tuition fee W aiver[TFW],( Whose Annual Family Income should not be exceed from 8.0 Lac) No -- Not Required Not Required Not Required J & K Resident/Migrant No Not Required Not Required Not Required Son/Daughter of a person below poverty line No Not Required Not Required Not Required Son/Daughter of an M.P . govt class IV employee No Not Required Not Required Not Required Awarded gold medal in national level sports competition No Not Required Not Required Not Required Student APAAR/ABC ID (12 digit) -- Details of Qualifying Examination Higher Secondary (10+2) with Chemistry/Mathematics/Physics Roll No of Qualifying Exam 265633634 Board Name Board of Secondary Education Bhopal Madhya Pradesh Passing Year 2026 Chemistry Mathematics Physics Total of Subject",
+              "pageIndex": 1,
+              "chunkIndex": 2
+            },
+            "similarity": 0.5907146708852355
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_1",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "Address ANAND NAGAR,KHANDW A,Khandwa,Khandwa (M Corp.),KHANDW A,INDORE,MADHY A PRADESH,450001 Certification Details Certificate Selected Details Certificate type Issuing/Self Declared District Certificate No Issued Date Domicile of Madhya Pradesh Yes Issued Khandwa RS/466/01 110/8995/2026 05/03/2026 Candidate Full Name in Hindi यशस्वी पवार Category OBC Khandwa RS/466/0106/45331/2015 02/06/2015 Income certificate (Non Creamy Layer Limit) (IN CASE OF OBC Certificate is before 30/04/2023 ) Yes Issued Khandwa RS/466/01 11/4637/2026 27/02/2026 Economically W eaker Section General Category (EWS) No Not Required Not Required Not Required Class Nil Class Not Required Not Required Not Required Tuition fee W aiver[TFW],( Whose Annual Family Income should not be exceed from 8.0 Lac) No -- Not Required",
+              "pageIndex": 1,
+              "chunkIndex": 1
+            },
+            "similarity": 0.5789739324745841
+          },
+          {
+            "chunk": {
+              "id": "chunk_file_1782533354780_5",
+              "documentId": "file_1782533354780",
+              "documentName": "counsaling yashika.pdf",
+              "text": "as per JEE(Main) -2026 rule, if he/she found not eligible at any stage of counselling, he/she will be responsible. Please check your status through candidate status link on MPOnline website or through MP Mobile Android App. DISCLAIMER :Neither KIOSK nor MPOnline and Dir ectorate of Technical Education will be r esponsible for any kind of discr epancies 6/24/26, 12:39 PM about:blank about:blank 1 / 2",
+              "pageIndex": 1,
+              "chunkIndex": 5
+            },
+            "similarity": 0.5666992446144428
+          }
+        ]
+      }
+    ],
+    "documentIds": [],
+    "createdAt": "2026-06-27T04:09:27.847Z"
+  }
+]

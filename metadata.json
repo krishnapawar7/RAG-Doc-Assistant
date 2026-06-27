@@ -1,0 +1,6 @@
+{
+  "name": "RAG Document Assistant",
+  "description": "An AI-powered Document Assistant utilizing Retrieval-Augmented Generation (RAG) to upload, process, chunk, embed, and answer questions from PDF documents with precise source referencing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
